@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>PFA</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/test/haarcascade_eye.xml</name>
+			<type>1</type>
+			<location>C:/Users/Mariam Tiotio Berthe/Desktop/java/workspace eclipse/PFA/haarcascade_eye.xml</location>
+		</link>
+		<link>
+			<name>src/test/haarcascade_frontalface_alt.xml</name>
+			<type>1</type>
+			<location>C:/Users/Mariam Tiotio Berthe/Desktop/java/workspace eclipse/PFA/haarcascade_frontalface_alt.xml</location>
+		</link>
+		<link>
+			<name>src/testClass/haarcascade_eye.xml</name>
+			<type>1</type>
+			<location>C:/Users/Mariam Tiotio Berthe/Desktop/java/workspace eclipse/PFA/haarcascade_eye.xml</location>
+		</link>
+		<link>
+			<name>src/testClass/haarcascade_frontalface_alt.xml</name>
+			<type>1</type>
+			<location>C:/Users/Mariam Tiotio Berthe/Desktop/java/workspace eclipse/PFA/haarcascade_frontalface_alt</location>
+		</link>
+	</linkedResources>
+</projectDescription>
